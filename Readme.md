@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Митрофанов](https://up.htmlacademy.ru/react/2/user/429567).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Кудрявцевъ(https://htmlacademy.ru/profile/id1216433).
 
 ---
 
